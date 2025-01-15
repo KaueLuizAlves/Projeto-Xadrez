@@ -10,7 +10,10 @@ namespace xadrez
         private Cor jogadorAtual;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         public bool terminada { get; private set;}
+=======
+>>>>>>> 4ede6bc9154137a02efad80f90400f8a86e276b7
 =======
 >>>>>>> 4ede6bc9154137a02efad80f90400f8a86e276b7
 =======
@@ -23,7 +26,10 @@ namespace xadrez
             jogadorAtual = Cor.Branca;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             terminada = false;
+=======
+>>>>>>> 4ede6bc9154137a02efad80f90400f8a86e276b7
 =======
 >>>>>>> 4ede6bc9154137a02efad80f90400f8a86e276b7
 =======

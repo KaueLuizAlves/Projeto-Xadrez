@@ -14,6 +14,7 @@ namespace xadrez_console
                
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 while (!partida.terminada)
                 {
                     Console.Clear();
@@ -30,6 +31,10 @@ namespace xadrez_console
 
 
              
+=======
+
+                Tela.imprimirTabuleiro(partida.tab);
+>>>>>>> 4ede6bc9154137a02efad80f90400f8a86e276b7
 =======
 
                 Tela.imprimirTabuleiro(partida.tab);
